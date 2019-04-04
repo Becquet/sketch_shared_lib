@@ -1,0 +1,175 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BEC129DE-5C3E-40B9-8A61-C68405D9A3C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 84,
+    "width": 264,
+    "x": 56,
+    "y": 118
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A617A5E2-5381-4F6B-B2DD-A2B2C999E4DC"
+    },
+    {
+      "class": "shapePath",
+      "id": "DFB2A284-30E2-47C7-A532-DA3D3156C53A"
+    },
+    {
+      "class": "shapePath",
+      "id": "636AB58A-56CE-4F61-BBB6-A95F2DF24DF6"
+    },
+    {
+      "class": "shapePath",
+      "id": "6B211D83-1D92-4A40-9BB3-613F13168FE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05943291-B262-4DDD-8EBE-B92ACAC62809"
+    },
+    {
+      "class": "shapePath",
+      "id": "B998CC6F-29EB-4C40-8D51-168B80828F18"
+    },
+    {
+      "class": "shapePath",
+      "id": "C5BB27D8-60EE-42A5-8A82-65DC215D5941"
+    },
+    {
+      "class": "shapePath",
+      "id": "7A2A79BE-A63E-4134-BF01-A6DCD6AEF5CA"
+    },
+    {
+      "class": "shapePath",
+      "id": "8FAD254B-ACE4-4958-9D26-B6A7065BF329"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "157D70A4-79BC-4BAA-87FC-1A292340146F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7564836A-362B-4D56-B8CD-A66CD13D9557"
+    },
+    {
+      "class": "shapePath",
+      "id": "A45B830F-6A23-4C37-ABCC-FD77C868168D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D5A2441-E86A-434A-82D9-58714E6418F4"
+    },
+    {
+      "class": "shapePath",
+      "id": "F655E403-50B1-4AC2-976C-57C34B75C362"
+    },
+    {
+      "class": "shapePath",
+      "id": "96D10A30-9922-400F-ACB5-A40D5BA83A7C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1576061-13CE-42FA-841B-802BB30ACE1A"
+    },
+    {
+      "class": "shapePath",
+      "id": "36BEA29C-1C01-44DC-B681-5AACE9258C0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "E2FE741D-F029-42A1-8672-66C2B7CC65C2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6312EA7F-4A0A-498F-920E-2291B2597727"
+    },
+    {
+      "class": "shapePath",
+      "id": "9E890862-47F9-4E0F-8022-C571034ED528"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7B04818-F271-42E1-82A4-79A28592151E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C04C4D77-F479-4182-AE6D-B7E8218A4AB9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C38FE23-45FD-44F6-91E8-5436E1F541D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E2BD165-4A9F-4FAB-8EE6-B10E3EBDFB3D"
+    },
+    {
+      "class": "shapePath",
+      "id": "015C450F-6E40-48E3-A874-4C69B708A401"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D413C93E-3B53-488C-9BD7-643826D8C9B9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30C4644C-85F6-404B-B18D-00F79056D76D"
+    },
+    {
+      "class": "shapePath",
+      "id": "268154D6-DB28-46D4-BBEA-FC4D5BAABDDD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "406498EE-2D52-4D1E-8E7C-1AA1EDA89FF5"
+    },
+    {
+      "class": "shapePath",
+      "id": "C6243703-54DD-43A4-A1B9-D1F50CED03B0"
+    }
+  ],
+  "name": "logo-becquet-header",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

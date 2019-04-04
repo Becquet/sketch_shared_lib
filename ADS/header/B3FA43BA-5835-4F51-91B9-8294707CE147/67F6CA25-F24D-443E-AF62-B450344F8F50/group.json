@@ -1,0 +1,190 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "67F6CA25-F24D-443E-AF62-B450344F8F50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 50,
+    "width": 157,
+    "x": 305,
+    "y": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9284F9AF-40BE-4DCD-804E-57F93862DA9A"
+    },
+    {
+      "class": "shapePath",
+      "id": "9B039F95-64E2-42BF-85D0-7F68B774016E"
+    },
+    {
+      "class": "shapePath",
+      "id": "C429DE8D-35FF-4202-A3AD-A29ECEEFCCA4"
+    },
+    {
+      "class": "shapePath",
+      "id": "AC93019D-2A3C-49B5-BD2D-E3F20D16BD32"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "265CF5BC-25A0-402A-A3FF-A105F96C7F15"
+    },
+    {
+      "class": "shapePath",
+      "id": "3B18D32D-CF3D-4A8A-9FC1-7E188017FAE9"
+    },
+    {
+      "class": "shapePath",
+      "id": "621C0754-B519-4BB2-9F14-5F35F5AA3B8F"
+    },
+    {
+      "class": "shapePath",
+      "id": "76CEF5E5-EC2E-4F1E-9644-85E1405CDCE1"
+    },
+    {
+      "class": "shapePath",
+      "id": "974F6E94-24CF-4043-BB42-F6B633445B2F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C348629B-16F3-4B45-9F11-3941A42A971F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF302D53-CB91-4E7D-8208-D6F88DEDF060"
+    },
+    {
+      "class": "shapePath",
+      "id": "BC7A14B1-592C-42A9-8BB5-E3A713DB97F4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7F2D6E4-E8D9-4184-98ED-568410C1C35D"
+    },
+    {
+      "class": "shapePath",
+      "id": "5ED7F3E9-3705-4F08-B1DE-49C38A422185"
+    },
+    {
+      "class": "shapePath",
+      "id": "BCFCDECC-A585-46C4-9788-37C406FF188B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C14F1C64-3C48-4519-8E61-76F0DD1AE392"
+    },
+    {
+      "class": "shapePath",
+      "id": "C326E57B-177A-44E1-8659-64069CBE7E55"
+    },
+    {
+      "class": "shapePath",
+      "id": "E984B975-7E55-4DE2-A857-71F8F78A6848"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2205466E-7203-4B1F-BFDF-FB70B51CFA53"
+    },
+    {
+      "class": "shapePath",
+      "id": "FC512DF0-5215-4A02-B583-DEB975DAA754"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D926D39B-BC4B-42CA-987C-74EDFCB2323C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8FAA62DF-A4B6-41A1-9E3B-FAAF5DA16E84"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F89CDCC2-F746-4F0E-A8FD-DD23C1BA21CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28A5A99F-A729-408E-BC7C-0D9B57197FD7"
+    },
+    {
+      "class": "shapePath",
+      "id": "E0ECD80E-6A15-4A69-BF58-25B2843FCCCA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "372D1C86-3A09-428B-B3A1-449C3FFB0BAA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "12F1EB3C-DBAA-4E49-BD5A-08FFCCAB256C"
+    },
+    {
+      "class": "shapePath",
+      "id": "63C3413A-EF79-4CBD-A9D0-EBBFA73C1403"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7DCE229-0837-4926-A6D7-9392B6A7B59B"
+    },
+    {
+      "class": "shapePath",
+      "id": "96A43E98-5376-4AA9-862A-13BC9E2785D2"
+    }
+  ],
+  "name": "logo-becquet-header",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 50,
+            "enabled": 1,
+            "modelID": "constraint_022abfc1-dcc7-4254-ab3a-f89c60ba3f45",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 157.1429
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_38709549-c801-4a89-beb0-a359d5f89812",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

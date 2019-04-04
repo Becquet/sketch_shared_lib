@@ -1,0 +1,121 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "01B38125-9BCB-410E-B863-99BB156643C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 490,
+    "width": 96,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C4C74535-D92F-4A8C-B1F6-1E9DD3A7032A"
+    },
+    {
+      "class": "text",
+      "id": "0390E3E7-75E3-4484-9B27-65CA6F4A94D9"
+    },
+    {
+      "class": "text",
+      "id": "E84386B3-212E-4FFC-BB43-B3AAFEF4575D"
+    },
+    {
+      "class": "text",
+      "id": "29E71954-FA36-4AB7-AD1E-106EC2A9A2D5"
+    },
+    {
+      "class": "text",
+      "id": "0F19AA64-D920-4338-BBF3-5236927ABD67"
+    },
+    {
+      "class": "text",
+      "id": "69EA717D-47E0-40F0-9CAF-B28D026C8396"
+    },
+    {
+      "class": "text",
+      "id": "C6FDFA5A-94D8-4BDA-8ABF-DE53F8B93AAC"
+    },
+    {
+      "class": "text",
+      "id": "A97E1FC6-1819-4AB5-ACC6-58DBB0C038CE"
+    },
+    {
+      "class": "text",
+      "id": "A46A935B-2B99-47F5-A581-DA6AE4C58F20"
+    },
+    {
+      "class": "text",
+      "id": "2AEE2C39-776C-4C5B-8395-A3069C8D298B"
+    },
+    {
+      "class": "text",
+      "id": "C76F95D6-ED36-4835-AEE9-1CAC4EFE7B1F"
+    },
+    {
+      "class": "text",
+      "id": "88E03AAE-8BB0-4539-BDD2-223F1BEC7BF8"
+    },
+    {
+      "class": "text",
+      "id": "6979D8F4-6C3F-4832-B0C3-55B8944A0094"
+    },
+    {
+      "class": "text",
+      "id": "05393A48-9B54-4EEF-BDF9-15F7AE47303C"
+    },
+    {
+      "class": "text",
+      "id": "92E20815-6A7E-4354-952E-AA15F466F5BD"
+    },
+    {
+      "class": "text",
+      "id": "46655535-B18E-440D-B69A-6B79F8B6531D"
+    },
+    {
+      "class": "text",
+      "id": "8155DF0B-3A1D-41AE-9034-2B55E9988F90"
+    },
+    {
+      "class": "text",
+      "id": "0F1FFB79-58B0-464E-9079-4BE24274C4D8"
+    }
+  ],
+  "name": "left",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8A3F505B-6C65-445B-B6EE-DA17CC1EE3BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 120,
+    "x": 360,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "action-icons/desk/basket/1-zone/hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC154DCD-4B20-47ED-A952-FB14417A0DBE",
+      "overrideName": "90F3F4ED-082A-4A27-AA2C-784FD719D117_symbolID",
+      "value": "B2E14817-3D58-4D87-BA1E-E0AC0441D016"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0142904E-E4AE-42A4-81E8-A4FE1CCD619D",
+      "overrideName": "90F3F4ED-082A-4A27-AA2C-784FD719D117/962533AB-A2B4-4444-A982-B987C1D5AB70_layerStyle",
+      "value": "21126B72-224F-44E1-832F-D7208FF49472"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "497FAE38-FC7C-4A8D-82CB-F40D9B2FE16B",
+      "overrideName": "90F3F4ED-082A-4A27-AA2C-784FD719D117/D7C19AFD-7280-4A7F-A958-5BEA9B997432/95A1FE6F-5F2D-419D-B686-2F3A91238404_stringValue",
+      "value": "8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DEBF655B-E9D3-4C2C-B669-F040F19D46D6",
+  "verticalSpacing": 0
+}

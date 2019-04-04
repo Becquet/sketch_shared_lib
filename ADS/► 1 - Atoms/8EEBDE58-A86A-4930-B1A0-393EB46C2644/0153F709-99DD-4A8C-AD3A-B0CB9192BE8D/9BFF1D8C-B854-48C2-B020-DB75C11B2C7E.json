@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9BFF1D8C-B854-48C2-B020-DB75C11B2C7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 99,
+    "width": 96,
+    "x": 0,
+    "y": 100
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "color_txt",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5AA7D53-4B2B-400A-BD82-EA6E541A0CBB/6718F70F-DEC7-4909-A8FB-DB3A647232BD_stringValue",
+      "value": "Becquet Orange #E75113"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B6667C15-9248-465A-9372-9066AF150036/283B9F41-1633-4423-B02C-F6042684F576_stringValue",
+      "value": "FEATURE COLOUR               "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B6667C15-9248-465A-9372-9066AF150036/2B985442-5A66-4346-905E-FFE6FBC55EB7_stringValue",
+      "value": "Orange Clicked"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B6667C15-9248-465A-9372-9066AF150036/18E06321-FF4C-48F2-88EC-DAB033B49BEC_stringValue",
+      "value": "#752200"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6A04909E-5CFE-49C7-8FB6-47D64B390816/0C0EDBA0-2A39-420B-AF0B-7B5F8BEB0B7B_stringValue",
+      "value": "PRIMARY COLOUR"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "869624CC-1F22-4717-94EB-7141BA7689C1/9E4E1FC7-8E17-41F6-8A8C-58DC62D2799D_stringValue",
+      "value": "OUTLINE COLOUR - MINOR\nICON COLOURS OVER"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "sharedStyleID": "513DE76E-3DC1-4711-BDCD-E47194D5096A",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "36C9E092-94F3-4B79-A5A1-2095571E48F8",
+  "verticalSpacing": 0
+}

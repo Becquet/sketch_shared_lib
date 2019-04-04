@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2383FD0D-E578-4019-A230-AB4EE72C4376",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 71,
+    "width": 330,
+    "x": -105,
+    "y": 273
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/desk/label required* + square-input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA05BC38-CB97-4CD8-9A85-B70B844387B6",
+      "overrideName": "4CC8B83D-28FF-4F07-B95F-23D3899D83F6/84B9731B-7D1D-4FF3-8077-7F5D28D1D774_stringValue",
+      "value": "Mot de pass*"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D48A9557-08E9-47E9-9094-97CA98102E28",
+      "overrideName": "5B907603-3BE8-4913-A5CB-02FC8036E98A/554CEE9D-408C-4143-B0B1-39162317CEC0_stringValue",
+      "value": "Mot de passe"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C988DCE2-4B7D-4043-A053-57C1F22722DF",
+      "overrideName": "5B907603-3BE8-4913-A5CB-02FC8036E98A/F9DABB8C-0AD6-4C1E-BD8F-0C17E158F7A5_stringValue",
+      "value": "*"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4872E1AE-753D-48EB-9DCD-8ABE14865B2B",
+      "overrideName": "5B907603-3BE8-4913-A5CB-02FC8036E98A/26F5BE53-4087-4F9E-8D1C-676576FAABDF_stringValue",
+      "value": ":"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0315D328-09BC-4DF7-8908-AB9713C72351",
+  "verticalSpacing": 0
+}

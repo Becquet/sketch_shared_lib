@@ -1,0 +1,89 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "03827582-773D-483F-AD67-A8279797A304",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 685,
+  "clippingMaskMode": 0,
+  "do_objectID": "9603AFAD-42B0-4411-B654-A1DF72D64A24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "168DAF84-2ECD-465D-9C86-9815E3C3633B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C8AEADC-89B6-4DAB-8B6C-E808AD699F11",
+    "height": 32,
+    "width": 32,
+    "x": 1007,
+    "y": -65
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D7135A68-2F41-4D17-9F38-07BB443ADA56"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8780370C-83D6-4E9E-B4E1-F748C466287C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D9E1592C-5DE2-4204-880C-099F1D329924"
+    }
+  ],
+  "name": "icons/mobi/brand/facebook",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA551E67-45E5-438E-97DF-2F61C9033A66",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9AFA99A6-8742-46FC-9E4E-80D440660C68",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "54BC0780-3396-4F8C-B44C-FC153E0F4326",
+    "guides": [
+    ]
+  }
+}

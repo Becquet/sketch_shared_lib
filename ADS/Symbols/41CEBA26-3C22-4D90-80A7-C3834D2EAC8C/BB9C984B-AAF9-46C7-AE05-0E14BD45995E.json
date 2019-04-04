@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BB9C984B-AAF9-46C7-AE05-0E14BD45995E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 330,
+    "x": -105,
+    "y": 378
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/desk/txt-center/text+icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB2B1139-D403-49EC-92BA-4BFA4D0783D4",
+      "overrideName": "34627F7D-6848-4684-974F-EFFD29A1FCEF/1DD5E423-65D1-4B8D-B969-7ACAEC27FA24_stringValue",
+      "value": "Me connecter"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78D02AD9-8A10-4722-8924-9CF52DAFC79F",
+      "overrideName": "34627F7D-6848-4684-974F-EFFD29A1FCEF/338C9054-B246-407C-A529-A6A046A18D7E/1591C239-6BA2-4F9A-9431-031921757B1A_layerStyle",
+      "value": "21126B72-224F-44E1-832F-D7208FF49472"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C389E4A7-2F74-4BF9-806D-052A30205666",
+      "overrideName": "BBA2C560-6916-4F44-809F-C7DA71D265EA_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "504DBD65-8A81-4F9C-9189-09A647465D49",
+      "overrideName": "C78D9577-FA05-4701-A3B8-8E80D77FA73E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC4C13E1-A47D-4C57-ABFE-0E1E1BAF2FFB",
+      "overrideName": "34627F7D-6848-4684-974F-EFFD29A1FCEF/338C9054-B246-407C-A529-A6A046A18D7E/56F12625-5AD7-467D-8592-A86E9260827A_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "109E0759-52D4-4FE9-8D02-041C2AD75DD3",
+  "verticalSpacing": 0
+}

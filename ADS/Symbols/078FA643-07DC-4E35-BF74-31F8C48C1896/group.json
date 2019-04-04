@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "078FA643-07DC-4E35-BF74-31F8C48C1896",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA94505F-F6A0-42FF-9C7F-D320078399E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C1007169-A4FC-47D6-B510-FAD858B81EF4",
+    "height": 22,
+    "width": 602,
+    "x": 397,
+    "y": 59
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E1CFFB25-71F3-42BE-AA92-2C4F8A9725AB"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8C53EE3D-DB14-4554-B148-FCA7583E961D"
+    },
+    {
+      "class": "text",
+      "id": "9CBD3644-B2CA-484E-A316-821E0FF09D89"
+    }
+  ],
+  "name": "Title Action icons Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF96164A-4750-41F7-9298-4CD0AD05C4E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

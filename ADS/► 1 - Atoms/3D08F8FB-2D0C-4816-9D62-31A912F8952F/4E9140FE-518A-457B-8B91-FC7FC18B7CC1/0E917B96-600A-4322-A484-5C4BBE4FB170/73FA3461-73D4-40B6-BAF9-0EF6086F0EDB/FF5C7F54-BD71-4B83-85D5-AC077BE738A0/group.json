@@ -1,0 +1,121 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF5C7F54-BD71-4B83-85D5-AC077BE738A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 487,
+    "width": 97,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C59B9BF4-B230-4F07-8726-501448ED4B25"
+    },
+    {
+      "class": "text",
+      "id": "199A4A9C-2D78-4695-95AC-87436D3C46DF"
+    },
+    {
+      "class": "text",
+      "id": "B0451D2F-2080-4184-9D42-2B9D042CDFBB"
+    },
+    {
+      "class": "text",
+      "id": "290875C8-ECBF-4C43-89F9-022B7743DE65"
+    },
+    {
+      "class": "text",
+      "id": "882A4D95-121D-4CA5-AD4D-05786557A807"
+    },
+    {
+      "class": "text",
+      "id": "581120C1-0F2A-49ED-BCA2-9829F22C9C7E"
+    },
+    {
+      "class": "text",
+      "id": "06C1C6FA-3263-48AA-9AC0-6918B5620878"
+    },
+    {
+      "class": "text",
+      "id": "2FCE941B-05E0-4AA1-9E38-1BD9C8D54B43"
+    },
+    {
+      "class": "text",
+      "id": "EA214114-C283-4A77-8FFA-4A777D7117F2"
+    },
+    {
+      "class": "text",
+      "id": "0F91FD9E-07C4-4615-9788-DB81826265D7"
+    },
+    {
+      "class": "text",
+      "id": "0FEA1B0F-A8D9-4F7E-ADA5-CB20C111643B"
+    },
+    {
+      "class": "text",
+      "id": "691E1B4A-535F-4800-9C9F-B8A63F7D8411"
+    },
+    {
+      "class": "text",
+      "id": "92E95113-90CB-41A2-AB87-FAC089857B83"
+    },
+    {
+      "class": "text",
+      "id": "9EC3ACC5-4B34-4AD3-8E39-94CF2ABE308C"
+    },
+    {
+      "class": "text",
+      "id": "2B117974-4544-438B-B7A8-C41180D927EC"
+    },
+    {
+      "class": "text",
+      "id": "8228105A-BE76-459E-B8DB-9790F7DDFA93"
+    },
+    {
+      "class": "text",
+      "id": "DAD382DA-F6F4-44A4-BDE7-2632B859EE27"
+    },
+    {
+      "class": "text",
+      "id": "00B81726-DCF0-4870-B87B-C02ADD65AF65"
+    }
+  ],
+  "name": "left",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF71BE4E-33DE-41C0-B286-5FCE33F3BAA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87C91E34-5316-4F00-8405-D7DC93ADA171",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92DF7954-B78F-4249-AC41-5E9B4293FC9B",
+    "height": 17,
+    "width": 99,
+    "x": 111,
+    "y": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EB7202EA-0D6F-46E6-8B8D-E944673242A7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "07A8F517-2B66-49AC-AA85-8ADC600B52E8"
+    },
+    {
+      "class": "shapePath",
+      "id": "01820E14-58D1-47BE-A529-BE45F0C4B788"
+    },
+    {
+      "class": "shapePath",
+      "id": "2B5FC6C1-9B6A-47D2-A85C-171BD1B0AEEB"
+    },
+    {
+      "class": "shapePath",
+      "id": "50178447-E934-46B9-9D5C-55369A4CAF95"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16AF95DF-74FE-4E0D-9B97-BD53E7AAE4EF"
+    },
+    {
+      "class": "shapePath",
+      "id": "2856A954-5286-496B-9056-75A5149944A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "87C45A2A-D76E-493F-88FA-7B567AC69FC5"
+    }
+  ],
+  "name": "Group 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "68871B4D-305C-4835-BE29-1C1D69EE61D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

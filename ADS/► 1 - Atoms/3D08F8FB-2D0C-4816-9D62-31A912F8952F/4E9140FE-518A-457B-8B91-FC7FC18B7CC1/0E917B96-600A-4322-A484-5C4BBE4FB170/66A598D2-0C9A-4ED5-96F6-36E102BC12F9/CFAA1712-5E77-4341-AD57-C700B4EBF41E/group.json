@@ -1,0 +1,121 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CFAA1712-5E77-4341-AD57-C700B4EBF41E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 487,
+    "width": 96,
+    "x": 361,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "72D4314C-C11D-4118-A2E8-C90F4D250577"
+    },
+    {
+      "class": "text",
+      "id": "102DB6AE-B591-4477-9CFB-CB4B354EFA40"
+    },
+    {
+      "class": "text",
+      "id": "05A36F9E-EF89-4F00-AC76-D0E2C3EA38BE"
+    },
+    {
+      "class": "text",
+      "id": "A6D7376A-559F-4901-9055-5AF221B4731D"
+    },
+    {
+      "class": "text",
+      "id": "4FA00C24-4A70-4544-BE25-FD7615CC01AB"
+    },
+    {
+      "class": "text",
+      "id": "A7E63E8B-7B33-4881-BEB7-85BFCF2D2E6F"
+    },
+    {
+      "class": "text",
+      "id": "4CB27CF8-4736-4689-88A4-3FB65DE45872"
+    },
+    {
+      "class": "text",
+      "id": "9BDF5C23-3C68-4B5E-837B-B197DF1ECD12"
+    },
+    {
+      "class": "text",
+      "id": "3C2DF6D7-523F-4C5E-BF1B-2F20C936DC2B"
+    },
+    {
+      "class": "text",
+      "id": "52B66CDA-C41C-45C3-B55B-F634EFE1A41F"
+    },
+    {
+      "class": "text",
+      "id": "8385E38D-114D-421D-A662-77EB66E74603"
+    },
+    {
+      "class": "text",
+      "id": "DE60E31E-B57E-45AD-A677-21BA52F471C2"
+    },
+    {
+      "class": "text",
+      "id": "EA7FBAE2-C08E-472C-9509-37C05AEFEB7D"
+    },
+    {
+      "class": "text",
+      "id": "F4EC5E13-18F9-4F0A-900F-A20F7AF36B21"
+    },
+    {
+      "class": "text",
+      "id": "0744A3E4-33DC-4E4B-84EB-EC62A4A31C8F"
+    },
+    {
+      "class": "text",
+      "id": "553CD1C8-4245-4E45-A783-86712B4C1797"
+    },
+    {
+      "class": "text",
+      "id": "BC47C3E6-B3A9-49C3-AB7C-3D895D90EA6C"
+    },
+    {
+      "class": "text",
+      "id": "CEBAE6D9-5150-415F-9A0B-0D7D3BFFCEA7"
+    }
+  ],
+  "name": "right",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

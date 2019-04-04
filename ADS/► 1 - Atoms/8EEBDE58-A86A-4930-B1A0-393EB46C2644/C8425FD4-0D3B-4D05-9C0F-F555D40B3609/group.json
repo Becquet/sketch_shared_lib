@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8425FD4-0D3B-4D05-9C0F-F555D40B3609",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1201D8FD-6DC3-4561-ACF3-716639ED6DEB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D2311E5F-4AAE-446F-BAEE-CF7311613BD5",
+    "height": 199,
+    "width": 97,
+    "x": 371,
+    "y": 76
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "72CD7B3F-0934-453E-B3D1-ABE351286D54"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8C16C50B-0DA1-44EA-B090-8797D3510F06"
+    },
+    {
+      "class": "rectangle",
+      "id": "11E4E06C-0622-4550-8CD6-F892C98BDD65"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82044BE6-C38F-4B10-B44B-0E2BC4C89F92"
+    }
+  ],
+  "name": "Special Offer Pink",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA54AA8F-BE66-41AF-B205-A4941E151E02",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

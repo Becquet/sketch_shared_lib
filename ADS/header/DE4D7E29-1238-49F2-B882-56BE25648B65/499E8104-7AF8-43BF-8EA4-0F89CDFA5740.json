@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "499E8104-7AF8-43BF-8EA4-0F89CDFA5740",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 266,
+    "x": 1096,
+    "y": 73
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "txt regular + bold",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68282AD7-364D-49ED-B0A5-70883A6D7ABF",
+      "overrideName": "7FAE878E-505B-455F-BF78-7387399F738A_symbolID",
+      "value": "8F6D1F17-0757-461F-A104-1C590D54EBCE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5485EF40-B6CB-4C8C-9643-3DCDF4B0C43B",
+      "overrideName": "7FAE878E-505B-455F-BF78-7387399F738A/23D29925-6996-46A9-B5C1-C246EB97A025_stringValue",
+      "value": "S’inscrire à la newsletter (20€ offerts dès 69€ d’achats !)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "72593A3E-12D4-4323-93FC-F7161F086581",
+  "verticalSpacing": 0
+}

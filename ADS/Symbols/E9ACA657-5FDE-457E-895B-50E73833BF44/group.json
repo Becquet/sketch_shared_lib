@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E9ACA657-5FDE-457E-895B-50E73833BF44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C31B4720-5497-4574-B9E0-BC89C02B77E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50993838-4F74-4011-89DA-B3A492D8A9B9",
+    "height": 22,
+    "width": 462,
+    "x": 397,
+    "y": 565
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "76530314-92BC-44FB-8155-D943F66D0094"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "56034F34-7314-40FA-A2F9-FF44078AE9A1"
+    },
+    {
+      "class": "text",
+      "id": "3610FCB2-04F3-4E92-BAC1-588CF08666BE"
+    }
+  ],
+  "name": "Title Action icons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3DCE217C-3774-4F5E-A4DA-0A1684771B66",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

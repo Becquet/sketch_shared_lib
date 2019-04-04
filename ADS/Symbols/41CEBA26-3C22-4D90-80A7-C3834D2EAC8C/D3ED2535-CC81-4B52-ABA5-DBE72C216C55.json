@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3ED2535-CC81-4B52-ABA5-DBE72C216C55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 295,
+    "x": -87,
+    "y": 594
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "link/desk/16/left/txt-regular + bold/arrow-right",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D14C1713-1CA7-4E74-AAFE-525DB6D84C55",
+      "overrideName": "20B5BC68-D104-406B-929A-D36CD2356DEF_stringValue",
+      "value": "Première visite ?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0FDA104B-A512-4BA5-A775-A98A3B9EAF30",
+      "overrideName": "927EC26F-C520-4A26-9E16-0AD4EB720EC9_stringValue",
+      "value": "Créez votre compte"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C3559206-146D-4D0B-9544-C2C8E00C31F9",
+  "verticalSpacing": 0
+}
